@@ -1,0 +1,42 @@
+[
+    {
+        "Year":"2019,20,21",
+        "Location": "World",
+        "Affected":"20.1Cr",
+        "Recover":" - ",
+        "Deaths":"38.8L",
+        "Vaccination":"43.7Cr(5.6%)"
+    },
+    {
+        "Year":"2019,20,21",
+        "Location": "India",
+        "Affected":"2.83Cr",
+        "Recover":"2.62Cr",
+        "Deaths":"3.32L",
+        "Vaccination":"16.7Cr"
+    },
+    {
+        "Year":"2019,20,21",
+        "Location": "Bihar",
+        "Affected":"7.08L",
+        "Recover":"6.88L",
+        "Deaths":"5,222",
+        "Vaccination":"2.18L"
+    },
+    {
+        "Year":"2019,20,21",
+        "Location": "UP",
+        "Affected":"16.9L",
+        "Recover":"16.4L",
+        "Deaths":"20,672",
+        "Vaccination":"1.8L"
+    },
+    {
+        "Year":"2019,20,21",
+        "Location": "Jharkhand",
+        "Affected":"3.38L",
+        "Recover":"3.25L",
+        "Deaths":"5,000",
+        "Vaccination":"2.0L"
+    }
+]
